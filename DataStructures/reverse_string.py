@@ -33,7 +33,7 @@ class reversestring:
                 print(self.reverseWithSlice(self.strIn))
             case '4':
                 print("The reverse of your string is:")
-                print(self.reverseWithBltIn(self.strIn))
+                print(self.reverseSomeNewWay(self.strIn))
             case None:
                 print("no options presented")
 
