@@ -1,0 +1,17 @@
+{
+    "student": [
+      {
+        "id": 1,
+        "name": "Joe",
+        "age": 21,
+        "full-true": true
+      },
+      {
+        "id": 2,
+        "name": "jim",
+        "age": 19,
+        "full-true": false
+      }
+    ],
+    "test": true
+  }
